@@ -15,4 +15,4 @@ The source codes are as follows:
 
 
 ## Discussion
-This exercise provides a better understanding of 
+This exercise provides a better understanding of different recommender systems to recommend the users focasing on their profile or items those they choose or combination of both of them.
