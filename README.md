@@ -11,7 +11,9 @@ This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4). This p
 
 ## File Description
 The source codes are as follows:
-- Final_Project_Deep_Learning_Smart_Grid_Stability.ipynb
+- Final_Content_based.ipynb
+- Final_Recom_clustering.ipynb
+- Final_Collaborative_recom.ipynb
 
 
 ## Discussion
