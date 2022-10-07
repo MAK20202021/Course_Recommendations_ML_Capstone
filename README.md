@@ -1,7 +1,7 @@
 # Course_Recommendations_ML_Capstone
 
-This project is a good sourse of better understanding on content-based and collaborative filtering based recommender systems. At the beginning, I provides the recommendations for the courses based on user profile and course similarity matrix and then user profile clustering. At last, different collaborative filtering models such as KNN, NMF, SVD, NN with embeddings have been developed and evaluated through Root Means Square Error (RMSE). 
-The main objective of the analysis is to focus on the recommender systems to build a better model to provide the recommendations for the courses. 
+This project is a good sourse of better understanding on content-based and collaborative filtering based recommender systems. At the beginning, I provides the recommendations of the courses based on user profile and course similarity matrix and then user profile clustering. At last, different collaborative filtering models such as KNN, NMF, SVD, NN with embeddings have been developed and evaluated through Root Mean Square Error (RMSE). 
+The main objective of the analysis is to focus on the recommender systems to build a better model to provide the recommendations of the courses. 
 
 ## Acknowledgement
 This project is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
@@ -17,4 +17,4 @@ The source codes are as follows:
 
 
 ## Discussion
-This exercise provides a better understanding of different recommender systems to recommend the users focasing on their profile or items those they choose or combination of both of them.
+This project provides a better understanding of different recommender systems to recommend the users focasing on their profile or items those they choose or combination of both of them.
